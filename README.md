@@ -1,3 +1,3 @@
 ### Track My Tasks
 
-Simple task tracker app as vehicle to revise basic react hooks
+Simple task tracker app as vehicle to revise basic react hooks (no Redux or objects).
